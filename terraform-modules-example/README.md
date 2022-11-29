@@ -1,0 +1,1 @@
+I created a module for deploying EC2 Instances and use it in a Terraform configuration.
